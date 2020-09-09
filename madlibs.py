@@ -5,7 +5,7 @@ noun = input("Enter a noun and hit enter: ")
 adjective = input("Enter an adjective and hit enter: ")
 
 # our story
-story = f"{exclamation}! he said {adverb} as he jumped into {noun} and drove off with his {adjective} wife."
+story = f"{exclamation}! he said {adverb} as he jumped into his convertible {noun} and drove off with his {adjective} wife."
 
 # printing our story
 print(story)
